@@ -20,7 +20,7 @@ convertfiletypes = [
   ".py",
   ".cpp",
   ".hpp",
-  ".h"
+  ".h",
   ".c"
   ]
 
